@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\Session07.UI\\Session07.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\MVCCore.Session07.Common\\MVCCore.Session07.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\MVCCore.Session07.Common\\MVCCore.Session07.Common.csproj",
+        "projectName": "MVCCore.Session07.Common",
+        "projectPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\MVCCore.Session07.Common\\MVCCore.Session07.Common.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\MVCCore.Session07.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\Session07.UI\\Session07.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\Session07.UI\\Session07.UI.csproj",
+        "projectName": "Session07.UI",
+        "projectPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\Session07.UI\\Session07.UI.csproj",
+        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\Session07.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\MVCCore.Session07.Common\\MVCCore.Session07.Common.csproj": {
+                "projectPath": "C:\\Users\\Alireza\\Downloads\\Compressed\\ProMvcCore98-Session07\\ProMvcCore98-Session07\\07\\MVCCore.Session07.Common\\MVCCore.Session07.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

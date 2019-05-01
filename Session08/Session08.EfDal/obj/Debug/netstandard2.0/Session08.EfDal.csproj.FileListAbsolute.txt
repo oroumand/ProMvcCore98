@@ -1,0 +1,12 @@
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\bin\Debug\netstandard2.0\Session08.EfDal.deps.json
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\bin\Debug\netstandard2.0\Session08.EfDal.dll
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\obj\Debug\netstandard2.0\Session08.EfDal.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\obj\Debug\netstandard2.0\Session08.EfDal.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\obj\Debug\netstandard2.0\Session08.EfDal.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\obj\Debug\netstandard2.0\Session08.EfDal.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\bin\Debug\netstandard2.0\Session08.EfDal.pdb
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\bin\Debug\netstandard2.0\Session08.Entities.dll
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\bin\Debug\netstandard2.0\Session08.Entities.pdb
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\obj\Debug\netstandard2.0\Session08.EfDal.csproj.CopyComplete
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\obj\Debug\netstandard2.0\Session08.EfDal.dll
+C:\Users\Alireza\source\repos\Session08\Session08.EfDal\obj\Debug\netstandard2.0\Session08.EfDal.pdb

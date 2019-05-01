@@ -1,0 +1,16 @@
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.deps.json
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.runtimeconfig.json
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.runtimeconfig.dev.json
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.dll
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.pdb
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.dll
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.pdb
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.EfDal.dll
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.Entities.dll
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.EfDal.pdb
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.Entities.pdb
+C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.csproj.CopyComplete

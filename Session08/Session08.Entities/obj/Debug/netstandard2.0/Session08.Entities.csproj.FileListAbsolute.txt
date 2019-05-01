@@ -1,0 +1,9 @@
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\bin\Debug\netstandard2.0\Session08.Entities.deps.json
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\bin\Debug\netstandard2.0\Session08.Entities.dll
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\bin\Debug\netstandard2.0\Session08.Entities.pdb
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.dll
+C:\Users\Alireza\source\repos\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.pdb
