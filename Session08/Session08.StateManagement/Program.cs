@@ -2,6 +2,7 @@
 using Session08.EfDal;
 using Session08.Entities;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace Session08.StateManagement
@@ -10,13 +11,24 @@ namespace Session08.StateManagement
     {
         static void Main(string[] args)
         {
+            var ctx = new Session08Context();
+            var person = ctx.People.Find(2);
+            List<string> UpdateParameters = new List<string>();
+            UpdateParameters.Add("LastName");
+            HW01.Update(ctx, person, UpdateParameters);
+
+
+            Console.ReadLine();
+        }
+
+        private static void ModelTest()
+        {
             TeacherContext teacherContext = new TeacherContext();
             foreach (var item in teacherContext.Model.GetEntityTypes())
             {
-                
-            } 
+
+            }
             Console.WriteLine("Perss any key");
-            Console.ReadLine();
         }
 
         private static void TransactionTest(TeacherContext teacherContext)

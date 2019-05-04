@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj": {}
+    "D:\\Visual Studio\\source\\repos\\mmhf6380\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
+    "D:\\Visual Studio\\source\\repos\\mmhf6380\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj",
+        "projectUniqueName": "D:\\Visual Studio\\source\\repos\\mmhf6380\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj",
         "projectName": "Session08.Entities",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\obj\\",
+        "projectPath": "D:\\Visual Studio\\source\\repos\\mmhf6380\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\Visual Studio\\source\\repos\\mmhf6380\\ProMvcCore98\\Session08\\Session08.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

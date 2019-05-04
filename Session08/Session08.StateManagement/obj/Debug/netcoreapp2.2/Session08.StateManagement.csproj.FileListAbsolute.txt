@@ -14,3 +14,19 @@ C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netc
 C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.EfDal.pdb
 C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.Entities.pdb
 C:\Users\Alireza\source\repos\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.csproj.CopyComplete
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.deps.json
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.runtimeconfig.json
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.runtimeconfig.dev.json
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.dll
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.StateManagement.pdb
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.EfDal.dll
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.Entities.dll
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.EfDal.pdb
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\bin\Debug\netcoreapp2.2\Session08.Entities.pdb
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.csprojAssemblyReference.cache
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.csproj.CoreCompileInputs.cache
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.AssemblyInfoInputs.cache
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.AssemblyInfo.cs
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.csproj.CopyComplete
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.dll
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.StateManagement\obj\Debug\netcoreapp2.2\Session08.StateManagement.pdb
