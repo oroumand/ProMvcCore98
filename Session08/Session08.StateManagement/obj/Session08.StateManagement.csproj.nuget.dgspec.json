@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj": {}
+    "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.EfDal\\Session08.EfDal.csproj": {
+    "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.EfDal\\Session08.EfDal.csproj",
+        "projectUniqueName": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj",
         "projectName": "Session08.EfDal",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.EfDal\\Session08.EfDal.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.EfDal\\obj\\",
+        "projectPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj",
+        "packagesPath": "C:\\Users\\Agah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.EfDal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Agah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj"
+              "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
+                "projectPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj"
               }
             }
           }
@@ -74,20 +74,20 @@
         }
       }
     },
-    "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
+    "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj",
         "projectName": "Session08.Entities",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\obj\\",
+        "projectPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj",
+        "packagesPath": "C:\\Users\\Agah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Agah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,20 +126,20 @@
         }
       }
     },
-    "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj": {
+    "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj",
         "projectName": "Session08.StateManagement",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.StateManagement\\obj\\",
+        "projectPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj",
+        "packagesPath": "C:\\Users\\Agah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.StateManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Agah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -152,11 +152,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.EfDal\\Session08.EfDal.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.EfDal\\Session08.EfDal.csproj"
+              "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj": {
+                "projectPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj"
               },
-              "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
-                "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session08\\Session08.Entities\\Session08.Entities.csproj"
+              "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj": {
+                "projectPath": "C:\\Users\\Agah\\Documents\\GitHubGhazal\\ProMvcCore98\\Session08\\Session08.Entities\\Session08.Entities.csproj"
               }
             }
           }

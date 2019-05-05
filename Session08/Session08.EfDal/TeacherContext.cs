@@ -4,14 +4,19 @@ using Session08.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace Session08.EfDal
 {
+
+
     public class TeacherContext : DbContext
     {
         public DbSet<Teacher> Teachers { get; set; }
-        public DbSet<Student> Students{ get; set; }
+        public DbSet<Student> Students { get; set; }
         public DbQuery<KeyValue> KeyValues { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -28,46 +33,74 @@ namespace Session08.EfDal
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
 
-            optionsBuilder.UseSqlServer("server = .; initial catalog= session08.TeacherDb;integrated security =true");
+            optionsBuilder.UseSqlServer(@"Data Source=.\MSSQLSERVER2017;Initial Catalog=Practice1;Integrated Security=True");
+        }
+
+        public void PartialListUpdate(Teacher teacher)
+        {
+            var ctx = new TeacherContext();
+            var newTeacher = new Teacher();
+            newTeacher.TeacherId = teacher.TeacherId;
+
+            PropertyInfo[] properties = typeof(Teacher).GetProperties();
+
+            foreach (var propertyName in teacher.UpdateListproperties.Keys)
+            {
+                var foundedProp = findePropertyByName(propertyName);
+                if (foundedProp != null)
+                {
+                    foundedProp.SetValue(newTeacher, teacher.UpdateListproperties[propertyName]);
+                    ctx.Entry(newTeacher).Property(propertyName).IsModified = true;
+                }
+
+            }
+            ctx.SaveChanges();
+
+            PropertyInfo findePropertyByName(string propertyName)
+            {
+                for (int i = 0; i < properties.Length; i++)
+                {
+                    if (properties[i].Name == propertyName)
+                        return properties[i];
+                }
+                return null;
+            }
+
+
         }
         public override int SaveChanges()
         {
-            var entities = ChangeTracker.Entries().Where(c => typeof(IAuditable).IsAssignableFrom(c.Entity.GetType()));
-            LogContext logContext = new LogContext();
-            foreach (var item in entities)
+            FixPersion();
+            return base.SaveChanges();
+        }
+
+
+        private void FixPersion()
+        {
+            var changedEntities = ChangeTracker.Entries()
+                .Where(x => x.State == EntityState.Added || x.State == EntityState.Modified);
+            foreach (var item in changedEntities)
             {
-                var temp = item.Entity as IAuditable;
-                var teacher = item.Entity as Teacher;
-                if (item.State == EntityState.Added)
-                {
+                if (item.Entity == null)
+                    continue;
 
-                    temp.InsertBy = 1;
-                    temp.InsertDate = DateTime.Now;
-                    temp.UpdateBy = 1;
-                    temp.UpdateDate = DateTime.Now;
-                }
-                if (item.State == EntityState.Modified)
+                var properties = item.Entity.GetType().GetProperties(BindingFlags.Public | BindingFlags.Instance)
+                    .Where(p => p.CanRead && p.CanWrite && p.PropertyType == typeof(string));
+
+                foreach (var property in properties)
                 {
-                    temp.UpdateBy = 1;
-                    temp.UpdateDate = DateTime.Now;
-                    
-                    
-                    var serializedDate = JsonConvert.SerializeObject(teacher);
-                    logContext.DataChangeHistories.Add(new DataChangeHistory
+                    var val = (string)property.GetValue(item.Entity, null);
+
+                    if (val!=null)
                     {
-                        EntityId = teacher.TeacherId.ToString(),
-                        EntityType = teacher.GetType().FullName,
-                        RegistrationDate = DateTime.Now,
-                        SerializedData = serializedDate
-
-
-                    });
-
-                    
+                        var newVal = val.FixPersianChars();
+                        if (newVal == val)
+                            continue;
+                        property.SetValue(item.Entity, newVal, null);
+                    }
                 }
             }
-            logContext.SaveChanges();
-            return base.SaveChanges();
+
         }
     }
 }
