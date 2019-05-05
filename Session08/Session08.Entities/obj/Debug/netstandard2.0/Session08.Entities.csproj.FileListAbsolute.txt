@@ -10,7 +10,6 @@ C:\Users\Alireza\source\repos\Session08\Session08.Entities\obj\Debug\netstandard
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\bin\Debug\netstandard2.0\Session08.Entities.deps.json
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\bin\Debug\netstandard2.0\Session08.Entities.dll
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\bin\Debug\netstandard2.0\Session08.Entities.pdb
-D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.csprojAssemblyReference.cache
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.csproj.CoreCompileInputs.cache
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.AssemblyInfoInputs.cache
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.AssemblyInfo.cs

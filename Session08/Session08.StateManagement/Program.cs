@@ -11,13 +11,29 @@ namespace Session08.StateManagement
     {
         static void Main(string[] args)
         {
-            var ctx = new Session08Context();
-            var person = ctx.People.Find(2);
-            List<string> UpdateParameters = new List<string>();
-            UpdateParameters.Add("LastName");
-            HW01.Update(ctx, person, UpdateParameters);
+            #region HW-02
+            var HWctx = new HW02Context();
+            HWctx.hW02s.Add(new HW02
+            {
+                FirstName="مهدي",
+                LastName="کريمي",
+                Description="اين آزمایش ي و ک است"
+            });
 
+            HWctx.SaveChanges();
+            #endregion
 
+            #region HW-01
+
+            //var ctx = new Session08Context();
+            //var person = ctx.People.Find(2);
+            //List<string> UpdateParameters = new List<string>();
+            //UpdateParameters.Add("LastName");
+            //HW01.Update(ctx, person, UpdateParameters);
+
+            #endregion
+
+            Console.WriteLine("Perss any key");
             Console.ReadLine();
         }
 
