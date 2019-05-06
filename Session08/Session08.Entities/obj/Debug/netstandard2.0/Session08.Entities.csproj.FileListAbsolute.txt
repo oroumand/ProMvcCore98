@@ -15,3 +15,4 @@ D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.AssemblyInfo.cs
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.dll
 D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.pdb
+D:\Visual Studio\source\repos\mmhf6380\ProMvcCore98\Session08\Session08.Entities\obj\Debug\netstandard2.0\Session08.Entities.csprojAssemblyReference.cache
