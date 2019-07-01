@@ -5,8 +5,11 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.AspNetCore.Routing.Constraints;
 using Microsoft.Extensions.DependencyInjection;
+using Session11.UrlAndRouts.Infrastructures;
+using UrlsAndRoutes.Infrastructure;
 
 namespace Session11.UrlAndRouts
 {
@@ -16,6 +19,14 @@ namespace Session11.UrlAndRouts
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<RouteOptions>(options => {
+                options.ConstraintMap.Add("weekday", typeof(WeekdayConstraint));
+                options.LowercaseUrls = true;
+                options.AppendTrailingSlash = true;
+                
+                }
+            );
+
             services.AddMvc();
         }
 
@@ -70,9 +81,23 @@ namespace Session11.UrlAndRouts
             //        constraints: new { id=new AlphaRouteConstraint()});
             //});
 
-            app.UseMvc(routs =>
+            //CustomConstrains
+            //app.UseMvc(routs =>
+            //{
+            //    routs.MapRoute("default", "/{controller=home}/{action=index}/{id:weekday=sat}",
+            //        defaults: new { },
+            //        constraints: new { id = new WeekdayConstraint() });
+            //});
+
+            app.UseMvc(routes =>
             {
-                routs.MapRoute("default", "/{controller=home}/{action=index}/{id:int:Range(1,100)}");
+                //routs.Routes.Add(new LegacyRoute(app.ApplicationServices, "/articles/Windows_3.1_Overview.html","/old/.NET_1.0_Class_Library"));
+
+                routes.MapRoute(
+                   name: "areas",
+                   template: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+                 );
+                routes.MapRoute("default", "/{action=index}/{controller=home}/{id?}");
             });
         }
     }

@@ -15,4 +15,17 @@ namespace Session11.UrlAndRouts.Controllers
                 });
         }
     }
+    public class LegacyController : Controller
+    {
+        public ViewResult GetLegacyUrl()
+        {
+            return View("Result",
+                new Result
+                {
+                    Controller = nameof(LegacyController),
+                    Action = nameof(GetLegacyUrl)
+                });
+        }
+    }
+    
 }

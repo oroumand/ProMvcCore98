@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alireza\\source\\repos\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj": {}
+    "D:\\ProMvcCore98\\Session11\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alireza\\source\\repos\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj": {
+    "D:\\ProMvcCore98\\Session11\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alireza\\source\\repos\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj",
+        "projectUniqueName": "D:\\ProMvcCore98\\Session11\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj",
         "projectName": "Session11.UrlAndRouts",
-        "projectPath": "C:\\Users\\Alireza\\source\\repos\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj",
+        "projectPath": "D:\\ProMvcCore98\\Session11\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\Session11.UrlAndRouts.csproj",
         "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alireza\\source\\repos\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\obj\\",
+        "outputPath": "D:\\ProMvcCore98\\Session11\\Session11.UrlAndRouts\\Session11.UrlAndRouts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -7,16 +7,18 @@ using Session11.UrlAndRouts.Models;
 
 namespace Session11.UrlAndRouts.Controllers
 {
-    //public class NewsController : Controller
-    //{
-    //    public ViewResult Index()
-    //    {
-    //        return View("Result",
-    //            new Result
-    //            {
-    //                Controller = nameof(NewsController),
-    //                Action = nameof(Index)
-    //            });
-    //    }
-    //}
+    public class NewsController : Controller
+    {
+        public ViewResult Default(int id)
+        {
+            var result = new Result
+            {
+                Controller = nameof(NewsController),
+                Action = nameof(Default),
+            };
+            result.Data["id"] = id;
+
+            return View("Result", result);
+        }
+    }
 }
