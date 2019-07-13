@@ -1,0 +1,16 @@
+﻿@model PersonSummary
+<form asp-action="People" method="post">
+
+    @for (int i = 0; i < 3; i++)
+    {
+        <div class="form-group">
+            <label asp-for="FirstName"></label>
+            <input name="[@i].FirstName" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="LastName"></label>
+            <input name="[@i].LastName" class="form-control" />
+        </div>
+    }
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

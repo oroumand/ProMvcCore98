@@ -1,0 +1,33 @@
+﻿@model Session14.Validations.Models.Appointment
+@{
+    ViewData["Title"] = "Index";
+}
+    <form asp-action="MakeBooking" method="post">
+        <div asp-validation-summary="ModelOnly"></div>
+        <div>
+            <label asp-for="UserName"></label>
+            <input asp-for="UserName" />
+            <span asp-validation-for="UserName"></span>
+        </div>
+
+        <div>
+            <label asp-for="ClientName"></label>
+            <input asp-for="ClientName" />
+            <span asp-validation-for="ClientName"></span>
+        </div>
+        <div>
+            <label asp-for="Date"></label>
+
+            <input asp-for="Date" />
+            <span asp-validation-for="Date"></span>
+
+        </div>
+        <div>
+            <label asp-for="TermsAccepted"></label>
+            <input asp-for="TermsAccepted" />
+            <span asp-validation-for="TermsAccepted"></span>
+
+        </div>
+        <input type="submit" value="Submit" />
+    </form>
+

@@ -1,0 +1,33 @@
+﻿@model string[]
+@{
+    ViewBag.Title = "Names";
+    Layout = "_Layout";
+}
+
+    <form asp-action="Names" method="post">
+        @for (int i = 0; i < 3; i++)
+        {
+            <div class="form-group">
+                <label>Name @(i + 1):</label>
+                <input id="names" name="fullNames" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label>
+                    check @(i + 1):
+                    <input type="checkbox" value="@i" id="selectedValues" name="selectedValues" class="form-control" />
+                </label>
+                </div>
+        }
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+@*else
+    {
+        <table class="table table-sm table-bordered table-striped">
+            @foreach (string name in Model)
+            {
+                <tr><th>Name:</th><td>@name</td></tr>
+            }
+        </table>
+        <a asp-action="Names" class="btn btn-primary">Back</a>
+    }*@
