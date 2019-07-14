@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj": {}
+    "C:\\Users\\Teammate\\Documents\\GitHub\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj": {}
   },
   "projects": {
-    "D:\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj": {
+    "C:\\Users\\Teammate\\Documents\\GitHub\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj",
+        "projectUniqueName": "C:\\Users\\Teammate\\Documents\\GitHub\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj",
         "projectName": "Session13.ControllersAndActions",
-        "projectPath": "D:\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj",
-        "packagesPath": "C:\\Users\\Alireza\\.nuget\\packages\\",
-        "outputPath": "D:\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\obj\\",
+        "projectPath": "C:\\Users\\Teammate\\Documents\\GitHub\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\Session13.ControllersAndActions.csproj",
+        "packagesPath": "C:\\Users\\Teammate\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Teammate\\Documents\\GitHub\\ProMvcCore98\\Session13\\Session13.ControllersAndActions\\Session13.ControllersAndActions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Alireza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Teammate\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,14 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://192.168.1.9:8098/v3/index.json": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
-          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
