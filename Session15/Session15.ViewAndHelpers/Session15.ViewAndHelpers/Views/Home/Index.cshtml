@@ -1,0 +1,55 @@
+﻿@model Session15.ViewAndHelpers.Models.BlogHomePage
+@{
+
+    int dayNumber = 31;
+    string myHtml = "<h1>Hellow Razor</h1>";
+}
+@section sideMenu
+{
+    <ul>
+        <li>Home</li>
+        <li>about</li>
+        <li>Contact us</li>
+    </ul>
+
+    @Html.Partial("_CommentList", Model.Comments)
+    @await Component.InvokeAsync("Ads",new {prefixAdd = "salam" }) 
+    
+
+}
+@functions{
+    public string sayHello() => "Hello";
+}
+
+@*@(dayNumber + 12)
+    <ol>
+        @for (int i = 0; i < dayNumber; i++)
+        {
+            <li>@i</li>
+        }
+    </ol>
+    @Html.Raw(myHtml)*@
+@Json.Serialize(Model)
+
+<div aro-alert="true">
+     خطر برق گرفتگی
+</div>
+<card header-text="Header">
+    Body Text
+</card>
+
+@*<div class="card" >
+    <div class="card-header">Header</div>
+    <div class="card-body">
+    
+    Body
+    
+    </div>
+</div>*@
+
+<vc:ads prefix-add="aaa">
+</vc:ads>
+
+@sayHello()
+@sayHello()
+@sayHello()

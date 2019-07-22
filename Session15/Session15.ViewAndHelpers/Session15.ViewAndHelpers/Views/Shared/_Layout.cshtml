@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/twitter-bootstrap/css/bootstrap.css" rel="stylesheet" />
+    @RenderSection("style", false)
+</head>
+<body>
+    <div class="row">
+        <div class="col-3">
+            <h4>
+
+                Side Menu
+                @if (IsSectionDefined("sideMenu"))
+                {
+                    @RenderSection("sideMenu")
+                }
+                else
+                {
+                    <ul>
+                        <li>SideMenu</li>
+                        <li>SideMenu</li>
+                        <li>SideMenu</li>
+                    </ul>
+                }
+            </h4>
+        </div>
+        <div class="col-9">
+            @RenderBody()
+        </div>
+    </div>
+    @RenderSection("script", false)
+</body>
+</html>
