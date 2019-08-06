@@ -1,0 +1,20 @@
+﻿@model Session16.Filters.Models.Teacher
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+@using (Html.BeginForm())
+{
+
+}
+<form asp-action="Save" asp-controller="Home">
+    <label asp-for="Age"></label>
+    <input asp-for="Age" />
+    <label asp-for="Age"></label>
+    <input asp-for="Name" />
+</form>
+<cache>
+    @DateTime.Now
+</cache>
+
