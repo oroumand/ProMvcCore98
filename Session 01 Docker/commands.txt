@@ -1,0 +1,10 @@
+docker build --tag=friendlyhello .
+
+docker image ls
+
+docker run -p 4000:80 friendlyhello
+
+
+docker tag friendlyhello oroumand/get-started:part2
+
+docker push oroumand/get-started:part2
