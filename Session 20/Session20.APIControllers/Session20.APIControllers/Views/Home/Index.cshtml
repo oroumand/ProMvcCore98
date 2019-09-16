@@ -1,0 +1,59 @@
+﻿@model List<Session20.APIControllers.Models.Person>
+@{
+    ViewData["Title"] = "Index";
+}
+<table>
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>FirstName</td>
+            <td>LastName</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.FirstName</td>
+                <td>@item.LastName</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form asp-action="AddPerson">
+    <div>
+        <input name="FirstName" type="text" />
+        <input name="LastName" type="text" />
+        <input type="submit" value="save" />
+        <input type="button" id="btnAjaxCallTest" value="Click For Ajax Call Test" />
+    </div>
+</form>
+
+@section Scripts {
+    <script src="~/lib/Scripts/jQuery/jquery.min.js"></script>
+
+    <script>
+        $('#btnAjaxCallTest').click(function () {
+            
+            var $firstName = $('input[name="FirstName"]');
+            var $lastName = $('input[name="LastName"]');
+
+            if ($firstName.val() && $lastName.val())
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("AddPerson", "Home")',
+                    dataType: "json",
+                    async: true,
+                    data: {
+                        FirstName: $firstName.val(),
+                        LastName: $lastName.val()
+                    },
+                    success: function(response) { },
+                    failure: function(msg) { }
+                });
+
+        });
+    </script>
+}
