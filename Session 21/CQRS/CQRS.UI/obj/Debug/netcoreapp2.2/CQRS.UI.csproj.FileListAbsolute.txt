@@ -1,0 +1,16 @@
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.DAL.Command.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.Entities.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\obj\Debug\netcoreapp2.2\CQRS.UI.csprojAssemblyReference.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\obj\Debug\netcoreapp2.2\CQRS.UI.csproj.CoreCompileInputs.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\obj\Debug\netcoreapp2.2\CQRS.UI.AssemblyInfoInputs.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\obj\Debug\netcoreapp2.2\CQRS.UI.AssemblyInfo.cs
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.UI.deps.json
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.UI.runtimeconfig.json
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.UI.runtimeconfig.dev.json
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.UI.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.UI.pdb
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.DAL.Command.pdb
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\bin\Debug\netcoreapp2.2\CQRS.Entities.pdb
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\obj\Debug\netcoreapp2.2\CQRS.UI.csproj.CopyComplete
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\obj\Debug\netcoreapp2.2\CQRS.UI.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.UI\obj\Debug\netcoreapp2.2\CQRS.UI.pdb

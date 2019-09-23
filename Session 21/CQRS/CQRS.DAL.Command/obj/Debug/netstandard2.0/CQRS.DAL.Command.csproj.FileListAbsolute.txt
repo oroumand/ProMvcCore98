@@ -1,0 +1,12 @@
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\bin\Debug\netstandard2.0\CQRS.DAL.Command.deps.json
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\bin\Debug\netstandard2.0\CQRS.DAL.Command.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\obj\Debug\netstandard2.0\CQRS.DAL.Command.csproj.CoreCompileInputs.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\obj\Debug\netstandard2.0\CQRS.DAL.Command.AssemblyInfoInputs.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\obj\Debug\netstandard2.0\CQRS.DAL.Command.AssemblyInfo.cs
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\obj\Debug\netstandard2.0\CQRS.DAL.Command.csprojAssemblyReference.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\bin\Debug\netstandard2.0\CQRS.DAL.Command.pdb
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\bin\Debug\netstandard2.0\CQRS.Entities.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\bin\Debug\netstandard2.0\CQRS.Entities.pdb
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\obj\Debug\netstandard2.0\CQRS.DAL.Command.csproj.CopyComplete
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\obj\Debug\netstandard2.0\CQRS.DAL.Command.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.DAL.Command\obj\Debug\netstandard2.0\CQRS.DAL.Command.pdb

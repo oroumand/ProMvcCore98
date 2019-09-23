@@ -1,0 +1,11 @@
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\bin\Debug\netcoreapp2.2\Session21.Linq.deps.json
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\bin\Debug\netcoreapp2.2\Session21.Linq.runtimeconfig.json
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\bin\Debug\netcoreapp2.2\Session21.Linq.runtimeconfig.dev.json
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\bin\Debug\netcoreapp2.2\Session21.Linq.dll
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\bin\Debug\netcoreapp2.2\Session21.Linq.pdb
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\obj\Debug\netcoreapp2.2\Session21.Linq.csproj.CoreCompileInputs.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\obj\Debug\netcoreapp2.2\Session21.Linq.AssemblyInfoInputs.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\obj\Debug\netcoreapp2.2\Session21.Linq.AssemblyInfo.cs
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\obj\Debug\netcoreapp2.2\Session21.Linq.dll
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\obj\Debug\netcoreapp2.2\Session21.Linq.pdb
+D:\ProMvcCore98\Session 21\Session21\Session21.Linq\obj\Debug\netcoreapp2.2\Session21.Linq.csprojAssemblyReference.cache

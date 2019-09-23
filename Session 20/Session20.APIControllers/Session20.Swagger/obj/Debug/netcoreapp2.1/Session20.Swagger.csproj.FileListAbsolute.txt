@@ -1,0 +1,14 @@
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\bin\Debug\netcoreapp2.1\Session20.Swagger.deps.json
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\bin\Debug\netcoreapp2.1\Session20.Swagger.runtimeconfig.json
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\bin\Debug\netcoreapp2.1\Session20.Swagger.runtimeconfig.dev.json
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\bin\Debug\netcoreapp2.1\Session20.Swagger.dll
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.csproj.CoreCompileInputs.cache
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.RazorAssemblyInfo.cache
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.RazorAssemblyInfo.cs
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.AssemblyInfoInputs.cache
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.AssemblyInfo.cs
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.RazorTargetAssemblyInfo.cache
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\bin\Debug\netcoreapp2.1\Session20.Swagger.pdb
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.csprojAssemblyReference.cache
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.dll
+D:\ProMvcCore98\Session 20\Session20.APIControllers\Session20.Swagger\obj\Debug\netcoreapp2.1\Session20.Swagger.pdb

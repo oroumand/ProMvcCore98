@@ -1,0 +1,11 @@
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\bin\Debug\netcoreapp2.2\Session21.LinqTests.deps.json
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\bin\Debug\netcoreapp2.2\Session21.LinqTests.runtimeconfig.json
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\bin\Debug\netcoreapp2.2\Session21.LinqTests.runtimeconfig.dev.json
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\bin\Debug\netcoreapp2.2\Session21.LinqTests.dll
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\bin\Debug\netcoreapp2.2\Session21.LinqTests.pdb
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\obj\Debug\netcoreapp2.2\Session21.LinqTests.csprojAssemblyReference.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\obj\Debug\netcoreapp2.2\Session21.LinqTests.csproj.CoreCompileInputs.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\obj\Debug\netcoreapp2.2\Session21.LinqTests.AssemblyInfoInputs.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\obj\Debug\netcoreapp2.2\Session21.LinqTests.AssemblyInfo.cs
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\obj\Debug\netcoreapp2.2\Session21.LinqTests.dll
+D:\ProMvcCore98\Session 21\Session21\Session21.LinqTests\obj\Debug\netcoreapp2.2\Session21.LinqTests.pdb

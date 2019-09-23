@@ -1,0 +1,11 @@
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\bin\Debug\netcoreapp2.2\Session21.TestBefore.deps.json
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\bin\Debug\netcoreapp2.2\Session21.TestBefore.runtimeconfig.json
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\bin\Debug\netcoreapp2.2\Session21.TestBefore.runtimeconfig.dev.json
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\bin\Debug\netcoreapp2.2\Session21.TestBefore.dll
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\bin\Debug\netcoreapp2.2\Session21.TestBefore.pdb
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\obj\Debug\netcoreapp2.2\Session21.TestBefore.csprojAssemblyReference.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\obj\Debug\netcoreapp2.2\Session21.TestBefore.csproj.CoreCompileInputs.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\obj\Debug\netcoreapp2.2\Session21.TestBefore.AssemblyInfoInputs.cache
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\obj\Debug\netcoreapp2.2\Session21.TestBefore.AssemblyInfo.cs
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\obj\Debug\netcoreapp2.2\Session21.TestBefore.dll
+D:\ProMvcCore98\Session 21\Session21\Session21.TestBefore\obj\Debug\netcoreapp2.2\Session21.TestBefore.pdb

@@ -1,0 +1,9 @@
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\bin\Debug\netstandard2.0\CQRS.Entities.deps.json
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\bin\Debug\netstandard2.0\CQRS.Entities.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\bin\Debug\netstandard2.0\CQRS.Entities.pdb
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\obj\Debug\netstandard2.0\CQRS.Entities.csprojAssemblyReference.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\obj\Debug\netstandard2.0\CQRS.Entities.csproj.CoreCompileInputs.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\obj\Debug\netstandard2.0\CQRS.Entities.AssemblyInfoInputs.cache
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\obj\Debug\netstandard2.0\CQRS.Entities.AssemblyInfo.cs
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\obj\Debug\netstandard2.0\CQRS.Entities.dll
+D:\ProMvcCore98\Session 21\CQRS\CQRS.Entities\obj\Debug\netstandard2.0\CQRS.Entities.pdb
