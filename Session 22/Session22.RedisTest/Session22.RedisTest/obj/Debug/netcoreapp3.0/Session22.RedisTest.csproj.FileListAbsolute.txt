@@ -1,0 +1,16 @@
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\Session22.RedisTest.exe
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\obj\Debug\netcoreapp3.0\Session22.RedisTest.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\obj\Debug\netcoreapp3.0\Session22.RedisTest.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\obj\Debug\netcoreapp3.0\Session22.RedisTest.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\Session22.RedisTest.deps.json
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\Session22.RedisTest.runtimeconfig.json
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\Session22.RedisTest.runtimeconfig.dev.json
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\Session22.RedisTest.dll
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\Session22.RedisTest.pdb
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\ServiceStack.Common.dll
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\ServiceStack.Interfaces.dll
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\ServiceStack.Redis.dll
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\bin\Debug\netcoreapp3.0\ServiceStack.Text.dll
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\obj\Debug\netcoreapp3.0\Session22.RedisTest.csproj.CopyComplete
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\obj\Debug\netcoreapp3.0\Session22.RedisTest.dll
+C:\Users\Alireza\source\repos\Session22.RedisTest\Session22.RedisTest\obj\Debug\netcoreapp3.0\Session22.RedisTest.pdb

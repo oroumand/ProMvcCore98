@@ -1,0 +1,8 @@
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\bin\Debug\netstandard2.0\Session22.Dapper.Entities.deps.json
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\bin\Debug\netstandard2.0\Session22.Dapper.Entities.dll
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\bin\Debug\netstandard2.0\Session22.Dapper.Entities.pdb
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\obj\Debug\netstandard2.0\Session22.Dapper.Entities.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\obj\Debug\netstandard2.0\Session22.Dapper.Entities.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\obj\Debug\netstandard2.0\Session22.Dapper.Entities.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\obj\Debug\netstandard2.0\Session22.Dapper.Entities.dll
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.Entities\obj\Debug\netstandard2.0\Session22.Dapper.Entities.pdb

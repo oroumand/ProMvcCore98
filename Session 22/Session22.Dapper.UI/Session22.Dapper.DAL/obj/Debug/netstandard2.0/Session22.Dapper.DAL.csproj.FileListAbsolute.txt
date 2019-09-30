@@ -1,0 +1,11 @@
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\bin\Debug\netstandard2.0\Session22.Dapper.DAL.deps.json
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\bin\Debug\netstandard2.0\Session22.Dapper.DAL.dll
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\obj\Debug\netstandard2.0\Session22.Dapper.DAL.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\obj\Debug\netstandard2.0\Session22.Dapper.DAL.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\obj\Debug\netstandard2.0\Session22.Dapper.DAL.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\bin\Debug\netstandard2.0\Session22.Dapper.DAL.pdb
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\bin\Debug\netstandard2.0\Session22.Dapper.Entities.dll
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\bin\Debug\netstandard2.0\Session22.Dapper.Entities.pdb
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\obj\Debug\netstandard2.0\Session22.Dapper.DAL.csproj.CopyComplete
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\obj\Debug\netstandard2.0\Session22.Dapper.DAL.dll
+C:\Users\Alireza\source\repos\Session22.Dapper.UI\Session22.Dapper.DAL\obj\Debug\netstandard2.0\Session22.Dapper.DAL.pdb
