@@ -1,0 +1,5 @@
+C:\Users\Alireza\source\repos\Test\HTTPManager\bin\Debug\netstandard2.0\HTTPManager.deps.json
+C:\Users\Alireza\source\repos\Test\HTTPManager\bin\Debug\netstandard2.0\HTTPManager.dll
+C:\Users\Alireza\source\repos\Test\HTTPManager\obj\Debug\netstandard2.0\HTTPManager.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Test\HTTPManager\obj\Debug\netstandard2.0\HTTPManager.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Test\HTTPManager\obj\Debug\netstandard2.0\HTTPManager.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\ContactsAPI.deps.json
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\ContactsAPI.runtimeconfig.json
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\ContactsAPI.runtimeconfig.dev.json
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\ContactsAPI.dll
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\bin\Debug\netcoreapp2.1\ContactsAPI.pdb
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.dll
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.pdb
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.RazorAssemblyInfo.cache
+C:\Users\Alireza\source\repos\ProMvcCore98\Session 23\Session23.IDP\ContactsAPI\obj\Debug\netcoreapp2.1\ContactsAPI.RazorAssemblyInfo.cs

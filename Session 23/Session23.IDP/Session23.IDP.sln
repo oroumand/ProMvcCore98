@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API Server", "API Server", "{99EE41F1-C69A-4EC7-835F-DB58D51A0438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactsAPI", "ContactsAPI\ContactsAPI.csproj", "{F5D99D17-03C3-4407-8131-B49E48AD4456}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APP Server", "APP Server", "{64068374-98AC-45E0-A124-8886663C424E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APP", "APP\APP.csproj", "{AC1EAE00-DF8F-47F6-AC42-575E153026E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IDP Server", "IDP Server", "{64D1EE44-E9E0-4E25-B391-B31268FBE314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDP", "IDP\IDP.csproj", "{0719F111-B14E-40CB-92A9-738B3D2D3AFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5D99D17-03C3-4407-8131-B49E48AD4456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D99D17-03C3-4407-8131-B49E48AD4456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D99D17-03C3-4407-8131-B49E48AD4456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D99D17-03C3-4407-8131-B49E48AD4456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1EAE00-DF8F-47F6-AC42-575E153026E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1EAE00-DF8F-47F6-AC42-575E153026E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1EAE00-DF8F-47F6-AC42-575E153026E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1EAE00-DF8F-47F6-AC42-575E153026E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0719F111-B14E-40CB-92A9-738B3D2D3AFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0719F111-B14E-40CB-92A9-738B3D2D3AFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0719F111-B14E-40CB-92A9-738B3D2D3AFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0719F111-B14E-40CB-92A9-738B3D2D3AFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5D99D17-03C3-4407-8131-B49E48AD4456} = {99EE41F1-C69A-4EC7-835F-DB58D51A0438}
+		{AC1EAE00-DF8F-47F6-AC42-575E153026E9} = {64068374-98AC-45E0-A124-8886663C424E}
+		{0719F111-B14E-40CB-92A9-738B3D2D3AFC} = {64D1EE44-E9E0-4E25-B391-B31268FBE314}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7923767-FD28-437C-BDA0-15773663D752}
+	EndGlobalSection
+EndGlobal

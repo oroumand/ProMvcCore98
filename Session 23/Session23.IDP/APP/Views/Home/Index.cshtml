@@ -1,0 +1,16 @@
+﻿@model List<Contact>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+
+    <ul>
+        @foreach (var item in Model)
+        {
+            <li><a href="https://go.microsoft.com/fwlink/?LinkID=517851">@string.Format("{0} {1}", item.FirstName, item.LastName)</a></li>
+
+        }
+    </ul>
+</div>
+
