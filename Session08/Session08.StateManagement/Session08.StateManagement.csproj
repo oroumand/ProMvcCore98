@@ -18,4 +18,10 @@
     <ProjectReference Include="..\Session08.Entities\Session08.Entities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="netstandard">
+      <HintPath>C:\Program Files\dotnet\sdk\NuGetFallbackFolder\netstandard.library\2.0.3\build\netstandard2.0\ref\netstandard.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
