@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj": {}
+    "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.Tests\\Session08.Tests.csproj": {}
   },
   "projects": {
     "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj": {
@@ -185,6 +185,81 @@
               "target": "Package",
               "version": "[2.2.0, )",
               "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.Tests\\Session08.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.Tests\\Session08.Tests.csproj",
+        "projectName": "Session08.Tests",
+        "projectPath": "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.Tests\\Session08.Tests.csproj",
+        "packagesPath": "C:\\Users\\Agah\\.nuget\\packages\\",
+        "outputPath": "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Agah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj": {
+                "projectPath": "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.EfDal\\Session08.EfDal.csproj"
+              },
+              "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj": {
+                "projectPath": "C:\\Agah\\Repos\\ProMvcCore98\\Session08\\Session08.StateManagement\\Session08.StateManagement.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.10.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
             }
           },
           "imports": [

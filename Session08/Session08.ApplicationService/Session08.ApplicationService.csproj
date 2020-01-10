@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Session08.EfDal\Session08.EfDal.csproj" />
+    <ProjectReference Include="..\Session08.Entities\Session08.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
